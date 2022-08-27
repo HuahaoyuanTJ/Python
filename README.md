@@ -1,2 +1,2 @@
-# Python
-Some python script used for daily life
+# CAS monitor
+Real-time Monitoring CAS number and it will remind you once the CAS number updated.
